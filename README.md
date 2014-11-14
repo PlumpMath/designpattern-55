@@ -1,0 +1,1 @@
+hello, here is Phong. I am learning about design pattern
